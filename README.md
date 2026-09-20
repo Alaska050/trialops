@@ -207,7 +207,6 @@ This is a demonstration on one small public pilot study, not a validated clinica
 
 ## Next steps
 
-- A Power BI or Tableau version of the site-performance view
 - More edit checks using the LB (labs) and CM (concomitant medications) domains
 - Survival analysis (time to discontinuation) as a complement to the classifier
 
