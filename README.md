@@ -3,6 +3,7 @@
 **Turning raw CDISC clinical trial data into the operational views a trial team uses day to day:
 site performance, recruitment, retention, safety, data quality, and early warning of subjects at risk of dropping out.**
 
+[![tests](https://github.com/Alaska050/trialops/actions/workflows/ci.yml/badge.svg)](https://github.com/Alaska050/trialops/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-003B57)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.64-FF4B4B)
