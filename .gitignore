@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+data/trialops.db
+.DS_Store
+
+# Local working notes, not part of the project
+CLAUDE.md
